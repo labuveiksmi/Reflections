@@ -5,3 +5,7 @@ initialization creates the .git folder, which contains all data need to git work
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area contains files to be comited next time, working directory contains all files of your project, repository contains all versions of comitted files.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to make experiment, or translate, somehow implement your ideas, but not to affect your project you could use branches. You can commit into different branshes seperatly.
